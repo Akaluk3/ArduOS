@@ -97,5 +97,4 @@ MIT License — vedi il file `LICENSE` per dettagli.
 ---
 
 ## 👤 Autore
-
-[IL TUO NOME O USERNAME GITHUB]
+Akaluk3 
