@@ -5,6 +5,8 @@ Offre una shell seriale con comandi simili a Linux e due interfacce utente: un t
 
 ---
 
+
+ 
 ## 🧠 Caratteristiche principali
 
 - Shell seriale con comandi base come:
@@ -87,6 +89,7 @@ Avvia lo sketch per una UI grafica che comunica con Arduino via seriale.
 ## 📚 Approfondimenti
 
 ArduOS è un progetto didattico per esplorare la creazione di un sistema operativo minimale su hardware limitato come Arduino Uno, con funzionalità di shell e editor testuale.
+siete liberi di modificare e un progetto open source 
 
 ---
 
