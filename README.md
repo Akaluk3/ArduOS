@@ -36,25 +36,9 @@ Offre una shell seriale con comandi simili a Linux e due interfacce utente: un t
 
 Apri `arduino/arduos.ino` con Arduino IDE, compila e caricalo sulla tua scheda Arduino Uno.
 
-### 2. Terminale Python
 
-Dal terminale, entra nella cartella `terminale_python` e installa le dipendenze:
 
-```bash
-pip install -r requirements.txt
-```
-
-Avvia il terminale Python:
-
-```bash
-python arduino_bash_terminal.py
-```
-
-Questo emula un terminale Linux collegato ad ArduOS via seriale.
-
----
-
-### 3. Terminale Processing (opzionale)
+### 2. Terminale Processing 
 
 Apri Processing e carica lo sketch:
 
